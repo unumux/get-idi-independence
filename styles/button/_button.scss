@@ -14,13 +14,13 @@
     width: 29rem;
 
     @media all and (min-width: 768px) {
-        margin: initial;
+        margin: 0;
         margin-bottom: 4rem;
         width: 25rem;
     }
 
     &:hover {
-        background-color: #024882;
+        background-color: #C77203;
     }
 
 }
